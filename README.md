@@ -6,7 +6,7 @@
   👩🏻‍💻 MACHINE LEARNING E PYTHON
 </h2>
 
-Bem-vindo(a) ao desafio #7DaysOfCode! Serão 7 dias e 7 desafios. Analisaremos os dados do Spotify e fazer a previsão da popularidade de músicas com Machine Learning.
+Bem-vindo(a) ao desafio #7DaysOfCode! Serão 7 dias e 7 desafios. **Analisaremos os dados do Spotify e fazer a previsão da popularidade de músicas com Machine Learning.**
 
 Durante 7 dias, você receberá um desafio novo diariamente, cada um deles focado em um aspecto diferente dentro da criação de modelos de ML.
 
